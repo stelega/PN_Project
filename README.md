@@ -7,3 +7,5 @@ W drugim zadaniu należy napisać definicje funkcji umożliwiającej wyrysowanie
 Ostatnie zadanie polega na napisaniu mixed stage bootloadera w języku asemblera, który zmieni tryb pracy procesora z trybu rzeczywistego do chronionego.
 
 W katalogu docs znajduje się plik pdf, w którym znajduje się więcej informacji dotyczących projektu(w tym te dotyczące zadań do wykonania jak i materiały przydatnych do ich rozwiązania).
+
+Link do wideoprezentacji: https://www.youtube.com/watch?v=jhc2EnL-U-0&t=21s
