@@ -21,7 +21,7 @@ boot:
 	
 	;disable interrupts
 	
-	;load gdt table
+	lgdt [gdt_pointer]		;load gdt table
 	
 	;set protection enable in control register
 	
